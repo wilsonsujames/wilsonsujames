@@ -1,4 +1,4 @@
-Hi, I'm wilson.\n
-I have 2 years experience in Python and Js (my python is better then Js).
-I have create some repository about flask and Ml.
+Hi, I'm wilson.<br>
+I have 2 years experience in Python and Js (my python is better then Js).<br>
+I have create some repository about flask and Ml.<br>
 Hope repository will give you some help.
